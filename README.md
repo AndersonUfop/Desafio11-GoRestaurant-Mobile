@@ -10,7 +10,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AndersonUfop/Desafio11-GoRestaurant-Mobile?color=%2304D361">
 
   <a href="https://www.linkedin.com/in/anderson-fernandes-8b5a50135/">
-    <img alt="Made by Anderson" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+    <img alt="Made by Anderson" src="https://img.shields.io/badge/made%20by-Anderson-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
